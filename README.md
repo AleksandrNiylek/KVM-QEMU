@@ -25,6 +25,12 @@
 
 Пример взят [с сайта](https://alpinelinux.org). 
  
+ #### Скриншоты:
+ ![1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a069c92c-e5f0-4a76-94c1-733ba6831ab0)
+![2](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/8c4bde87-6aa1-484d-9de1-1656bd05d008)
+![3](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a930e75f-cecd-4226-9bd0-46416b9eef10)
+
+ 
 ---
 
 ### Задание 3 
