@@ -27,7 +27,7 @@
  
  #### Скриншоты:
  ![1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a069c92c-e5f0-4a76-94c1-733ba6831ab0)
-![2](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/8c4bde87-6aa1-484d-9de1-1656bd05d008)
+![2](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/5346e259-7add-4e5e-a035-56beb64aac5b)
 ![3](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a930e75f-cecd-4226-9bd0-46416b9eef10)
 
  
@@ -44,6 +44,11 @@
 
 Пример взят [с сайта](https://alpinelinux.org). 
  
+ #### Скриншоты:
+ ![3 1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/661c0fbb-f0a9-4002-a1f7-5ed20e09b636)
+![3 2](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/0c978a82-b180-4aa2-b832-ea26cee69f0d)
+![3 3](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/3e0ca10f-eb93-4ac6-9395-3aba7afff067)
+
  ---
 
 ### Задание 4
