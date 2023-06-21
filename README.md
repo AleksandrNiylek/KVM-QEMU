@@ -63,7 +63,9 @@
 ![image](https://user-images.githubusercontent.com/73060384/118615008-f95e9680-b7c8-11eb-9610-fc1e73d8bd70.png)
 
 #### Скриншоты:
+![4 1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/7b46ad7e-a3b2-44c8-a8ce-ae7a4d9548a2)
 
+![4](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/8e5734e4-096b-44ad-96ca-20c88cfe4f80)
 
 
 ---
