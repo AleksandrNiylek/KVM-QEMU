@@ -29,6 +29,7 @@
  ![1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a069c92c-e5f0-4a76-94c1-733ba6831ab0)
 ![2](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/5346e259-7add-4e5e-a035-56beb64aac5b)
 ![3](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/a930e75f-cecd-4226-9bd0-46416b9eef10)
+![2 1](https://github.com/AleksandrNiylek/KVM-QEMU/assets/136619576/45ae6959-cee3-41f1-b07a-896c2779a268)
 
  
 ---
@@ -60,6 +61,9 @@
 3. Для реализации используйте машину на базе QEMU. Можно дублировать, сделанную ранее. 
 
 ![image](https://user-images.githubusercontent.com/73060384/118615008-f95e9680-b7c8-11eb-9610-fc1e73d8bd70.png)
+
+#### Скриншоты:
+
 
 
 ---
